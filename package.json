@@ -1,0 +1,23 @@
+{
+  "name": "port-gen-mgm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"test\": \"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgmckinn/port-gen-mgm.git"
+  },
+  "author": "Mitch McKinney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgmckinn/port-gen-mgm/issues"
+  },
+  "homepage": "https://github.com/mgmckinn/port-gen-mgm#readme",
+  "dependencies": {
+    "force": "^0.0.3",
+    "inquirer": "^9.0.1"
+  }
+}
